@@ -8,5 +8,5 @@ setup(name='dev_server_tools',
       author='Proteus Technologies',
       author_email='team@proteus-tech.com',
       url='http://proteus-tech.com',
-      packages=['dev_server_tools',],
+      packages=['dev_server_tools', 'dev_server_tools.management', 'dev_server_tools.management.commands'],
      )
