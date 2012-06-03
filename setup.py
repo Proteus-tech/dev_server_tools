@@ -3,7 +3,7 @@
 from distutils.core import setup
 
 setup(name='dev_server_tools',
-      version='1.0',
+      version='1.1',
       description='dev server tools for Django',
       author='Proteus Technologies',
       author_email='team@proteus-tech.com',
